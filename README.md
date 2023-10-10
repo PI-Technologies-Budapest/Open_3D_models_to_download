@@ -1,6 +1,6 @@
 # 🧊 Official open-source extensions of *π_stage_1* 
 
-Here you can find some 3D models as an extension for your *π_stage_1*. The model list is not ended, feel free to contact us and tell if you need something. If you are a 3D modeller then show your extensions!
+Here you can find some 3D models as an extension for your *π_stage_1*. The model list is not finished yet, feel free to contact us and tell if you need something. If you are a 3D modeller then show your extensions!
 
 ## Packages:
 ### 🔬 Microscopy package:
@@ -21,4 +21,4 @@ Here you can find some 3D models as an extension for your *π_stage_1*. The mode
 ## 📁File structure:
 - microscopy
 - optics
-- macrop_hotography
+- macrop_photography
