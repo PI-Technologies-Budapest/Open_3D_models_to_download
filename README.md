@@ -2,6 +2,8 @@
 
 Here you can find some 3D models as an extension for your *π_stage_1*. The model list is not finished yet, feel free to contact us and tell if you need something. If you are a 3D modeller then show your extensions!
 
+Feel free to join to our community on [Printables](https://www.printables.com/group/pi-stand-users-zRLEvwZ) or on [our Discord server](https://discord.gg/gvy2bpud)!
+
 ## Packages:
 ### 🔬 Microscopy package:
 > Here you can find official extensions for your *π_stage_1* which let you to fix slides on the table or to fix anything.  
