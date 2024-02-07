@@ -17,12 +17,13 @@ Get official extra exclusive extensions on [<kbd> <br> ko-fi.com/pitechnolog
 >
 > Currently, this package contains `2` models.
 
+<!--
 ### 🎥 Macro photography package:
 > With this package you will be able to turn your *π_stage_1* into a successful macro photography stand. With the manual or with the motorized transmission, your *π_stage_1* is a solution, for the slow precise movements that you need for a timelapse, for example.
 > 
 > Currently, this package contains `0` models.
-
+-->
 ## 📁File structure:
 - microscopy
 - optics
-- macro_photography
+<!--- macro_photography-->
