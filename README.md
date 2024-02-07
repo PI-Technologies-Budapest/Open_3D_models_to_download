@@ -2,7 +2,7 @@
 
 Here you can find some 3D models as an extension for your *π_stage_1*. The model list is not finished yet, feel free to contact us, and tell us if you need something. If you are a 3D modeler then show your extensions!
 
-Feel free to join to our community on [<kbd> <br> Printables <br> </kbd>](https://www.printables.com/group/pi-stand-users-zRLEvwZ)  or on our [<kbd> <br> Discord server <br> </kbd>](https://discord.gg/gvy2bpud)!
+Feel free to join to our community on [<kbd> <br> Printables <br> </kbd>](https://www.printables.com/group/pi-stage-users-mQYMXAQ)  or on our [<kbd> <br> Discord server <br> </kbd>](https://discord.com/invite/UPbxCzwj)!
 
 Get official extra exclusive extensions on [<kbd> <br> ko-fi.com/pitechnologies <br> </kbd>](https://ko-fi.com/pitechnologies)
 
